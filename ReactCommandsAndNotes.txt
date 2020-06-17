@@ -1,0 +1,18 @@
+React Commands:
+-------------------------------------------------------------------------
+
+-> To create project: npx create-react-app myapp
+
+-> Run server: npm start
+
+->For random id: npm install uuid
+
+->Server: npm install react-router-dom
+
+->npm audit fix
+
+->npm install axios
+
+->To build React app for production:npm run build
+
+After this build folder is created which is ready to deploy
